@@ -12,6 +12,6 @@ class Nodo4
 
 	public:
 		Nodo4(int cantidad, int tipo, int peso, int cod);
-		Nodo4()
+		Nodo4();
 };
 

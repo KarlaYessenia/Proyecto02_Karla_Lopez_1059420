@@ -1,6 +1,6 @@
 #include "Matriz.h"
 
-void Matriz::Insertar(bool fila, bool colum, Nodo3* BahiaI, Nodo3* BahiaD, Nodo3* BahiaA, Nodo3* BahiaB, int c, int f, NodoM* InsertarB)
+void Matriz::Insertar(bool fila, bool colum, Nodo3* BahiaI, Nodo3* BahiaD, Nodo3* BahiaA, Nodo3* BahiaB, int c, int f, Nodo3* InsertarB)
 {
 	if (count == 0)
 	{

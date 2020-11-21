@@ -3,9 +3,9 @@
 class Nodo1
 {
 public:
-	char NumFila;
-	int NumColumna;
 	int NumFila1;
+	int NumColumna;
+	char NumFila;
 	Productos* producto;
 	Nodo1* Siguiente = nullptr;
 	Nodo1* Anterior = nullptr;
